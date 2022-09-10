@@ -1,0 +1,3 @@
+def ppp():
+    print('hello my world')
+ppp()
